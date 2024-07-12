@@ -13,8 +13,8 @@ app.get('/numbers', async (req, res) => {
       url = [
         "http://20.244.56.144/test/primes", 
         "http://20.244.56.144/test/fibo", 
+        "http://20.244.56.144/test/rand",
         "http://20.244.56.144/test/odd", 
-        "http://20.244.56.144/test/rand"
       ];
     }
 
